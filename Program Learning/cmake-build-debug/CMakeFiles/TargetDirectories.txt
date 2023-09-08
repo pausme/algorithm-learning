@@ -1,0 +1,5 @@
+F:/Code/Ccode/Program Learning/cmake-build-debug/CMakeFiles/main.dir
+F:/Code/Ccode/Program Learning/cmake-build-debug/CMakeFiles/test.dir
+F:/Code/Ccode/Program Learning/cmake-build-debug/CMakeFiles/test_.dir
+F:/Code/Ccode/Program Learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Code/Ccode/Program Learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
